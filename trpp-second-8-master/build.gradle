@@ -62,7 +62,7 @@ javadoc {
 }
 
 shadowJar {
-    archivesBaseName = "${project.name}"
+    archivesBaseName = "${project.name}Peregudova"
     libsDirName = "${project.name}"
     classifier('')
 }
